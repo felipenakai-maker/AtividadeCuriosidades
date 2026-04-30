@@ -23,13 +23,13 @@
  
 body{
   height: 300px;
-  background-image: url("img/Coragem.png");
+  background-image: url("./img/Coragem.png");
   background-position: center, center;
   font-family: var(--fonte-padrao);
 }
  
 header{
-    background-image: url("img/header.jpg" );
+    background-image: url("./img/header.jpg" );
     background-size: cover;
     color: white;
     height: 150px;
